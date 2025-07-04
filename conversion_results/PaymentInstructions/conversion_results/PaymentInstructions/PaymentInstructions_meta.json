@@ -1,0 +1,432 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Instruction for Payment through IITKGP Payment Gateway",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.48978400230408,
+          55.69615066051483
+        ],
+        [
+          503.85817980766296,
+          55.69615066051483
+        ],
+        [
+          503.85817980766296,
+          73.0465087890625
+        ],
+        [
+          112.48978400230408,
+          73.0465087890625
+        ]
+      ]
+    },
+    {
+      "title": "Note for Bidders'",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          121.22237205505371,
+          342.24498438835144
+        ],
+        [
+          183.94990468025208,
+          342.24498438835144
+        ],
+        [
+          182.75459218025208,
+          352.00264620780945
+        ],
+        [
+          120.02705955505371,
+          352.00264620780945
+        ]
+      ]
+    },
+    {
+      "title": "PLEASE NOTE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          93.16933465003967,
+          368.94857025146484
+        ],
+        [
+          172.317458152771,
+          368.94857025146484
+        ],
+        [
+          171.122145652771,
+          382.4285583496094
+        ],
+        [
+          91.97402215003967,
+          382.4285583496094
+        ]
+      ]
+    },
+    {
+      "title": "5) Existing/new student paying their fees through education loan",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.63999938964844,
+          671.53040599823
+        ],
+        [
+          449.472008228302,
+          669.98353099823
+        ],
+        [
+          449.472008228302,
+          684.7508392333984
+        ],
+        [
+          74.63999938964844,
+          685.4993934631348
+        ]
+      ]
+    },
+    {
+      "title": "(a) Education Loan taken from a bank other than SBI",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          93.10195058584213,
+          697.1499094963074
+        ],
+        [
+          396.63484025001526,
+          695.6030344963074
+        ],
+        [
+          396.63484025001526,
+          710.7567291259766
+        ],
+        [
+          93.10195058584213,
+          710.9346013069153
+        ]
+      ]
+    },
+    {
+      "title": "(b) Education loan taken from SBI branches other than SBI, Kharagpur",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          92.87154614925385,
+          232.62558460235596
+        ],
+        [
+          496.3577470779419,
+          231.07870960235596
+        ],
+        [
+          495.1624345779419,
+          246.87078857421875
+        ],
+        [
+          91.67623364925385,
+          247.48649883270264
+        ]
+      ]
+    },
+    {
+      "title": "(c) Education loan taken from SBI, Kharagpur",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          91.35380423069,
+          468.5897812843323
+        ],
+        [
+          355.81463384628296,
+          467.0429062843323
+        ],
+        [
+          355.81463384628296,
+          482.6708679199219
+        ],
+        [
+          91.35380423069,
+          483.7942671775818
+        ]
+      ]
+    },
+    {
+      "title": "PLEASE NOTE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          92.53647708892822,
+          740.5981292724609
+        ],
+        [
+          179.61821007728577,
+          739.0512542724609
+        ],
+        [
+          178.42289757728577,
+          754.6571464538574
+        ],
+        [
+          91.34116458892822,
+          755.6125602722168
+        ]
+      ]
+    },
+    {
+      "title": "Settlement of payment done through Bill Desk takes significant time for actual\nreceipt at IIT Kharagpur account",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          92.31700694561005,
+          192.6495487689972
+        ],
+        [
+          558.4478259086609,
+          192.6495487689972
+        ],
+        [
+          558.4478259086609,
+          223.2308349609375
+        ],
+        [
+          92.31700694561005,
+          223.2308349609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "TableCell",
+          69
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\PaymentInstructions"
+}

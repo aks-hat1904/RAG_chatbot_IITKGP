@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Python dotenv environment variables
+.env
+
+# ChromaDB persisted database directory
+chroma_db/
+
+# Streamlit secrets (for cloud deployment)
+.streamlit/secrets.toml
+
+# Log files
+*.log
+
+# Other
+*.sqlite3
